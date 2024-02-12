@@ -1,0 +1,11 @@
+{
+  "name": "valentine-day-idea-master",
+  "version": "1.0.0",
+  "description": "--- title: '#情人节专题#一个记录两个人走过岁月的点点滴滴的idea' created: '2019-02-14T02:04:58.602Z' modified: '2019-02-14T08:24:00.307Z' tags: [Notebooks/blogs, two-anniversary] ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
